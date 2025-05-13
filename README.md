@@ -9,7 +9,7 @@ The purpose of this credit risk analysis is to evaluate the performance of a **L
      
 * Precision Score:
        
-  + Healthy Loan (0): 0.99
+  + Healthy Loan (0): 1.00
   + High-Risk Loan (1): 0.84
        
 * Recall Score:
